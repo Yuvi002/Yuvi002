@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yuvi002
+- 👋 Hi, I’m Yuvraj Gangaram
 - 👀 I’m interested in software development and website development 
 - 📫 Reach Me on: gangaramyogesh@gmail.com
 
